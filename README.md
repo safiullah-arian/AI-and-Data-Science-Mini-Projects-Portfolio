@@ -121,9 +121,6 @@ Feel free to reach out if you have any questions or feedback:
 ---
 
 Happy learning and coding! 🎉
-
-```
-
 ### **Conclusion:**
 
 These mini projects aim to provide hands-on experience with machine learning and deep learning techniques. By applying these models to real-world datasets, I gained a deeper understanding of AI concepts and improved my skills in data preprocessing, model evaluation, and forecasting. The projects not only provide valuable insights into how AI can be applied in diverse fields but also serve as an excellent starting point for further exploration into advanced AI techniques.
