@@ -58,7 +58,7 @@ This repository showcases a collection of mini projects completed as part of the
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/ai-data-science-mini-projects.git
+   https://github.com/safiullah-arian/AI-and-Data-Science-Mini-Projects-Portfolio.git
    ```
 
 ### **Conclusion:**
